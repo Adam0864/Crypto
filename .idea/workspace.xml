@@ -4,16 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a4d3fafd-bcf0-4ae8-ac15-b9c3f1bbe8c3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Crypto.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TP2 I.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TP2 II.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TP2 III.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Vernam.py" afterDir="false" />
+    <list default="true" id="a4d3fafd-bcf0-4ae8-ac15-b9c3f1bbe8c3" name="Changes" comment="19/12/2025">
+      <change beforePath="$PROJECT_DIR$/TP2 III.py" beforeDir="false" afterPath="$PROJECT_DIR$/TP2 III.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +22,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Adam0864/Crypto.git",
+    "accountId": "f222ecc5-3eff-4877-a730-ee0f457ec254"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -44,10 +42,11 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.TP2 I.executor": "Run",
     "Python.TP2 II.executor": "Run",
+    "Python.TP2 III.executor": "Run",
     "Python.Vernam.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "U:/Crypto",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -75,16 +74,30 @@
       <workItem from="1765537633683" duration="1873000" />
       <workItem from="1765783696811" duration="5514000" />
       <workItem from="1766138883691" duration="33000" />
-      <workItem from="1766139465065" duration="3809000" />
+      <workItem from="1766139465065" duration="4122000" />
     </task>
+    <task id="LOCAL-00001" summary="19/12/2025">
+      <option name="closed" value="true" />
+      <created>1766143856278</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1766143856278</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="19/12/2025" />
+    <option name="LAST_COMMIT_MESSAGE" value="19/12/2025" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Crypto$TP2_II.coverage" NAME="TP2 II Coverage Results" MODIFIED="1766143080899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Crypto$Vernam.coverage" NAME="Vernam Coverage Results" MODIFIED="1765784013810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Crypto$TP2_I.coverage" NAME="TP2 I Coverage Results" MODIFIED="1766140041959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Crypto$TP2_III.coverage" NAME="TP2 III Coverage Results" MODIFIED="1766144057647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
