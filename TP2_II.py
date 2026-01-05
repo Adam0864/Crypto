@@ -10,5 +10,6 @@ def bezout(a,b):
 def inverse_modulaire(inverse,modulo):
     l = bezout(inverse,modulo)
     return l[0]
-print(bezout(117,368))
-print(inverse_modulaire(51,242))
+
+"""print(bezout(117,368))
+print(inverse_modulaire(51,242))"""

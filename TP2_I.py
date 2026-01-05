@@ -42,6 +42,6 @@ def phi(nombre):
             result*=nbr[0][i]**(nbr[1][i])-nbr[0][i]**(nbr[1][i]-1)
     return result
 
-print(decompPrimaire(1500))
+"""print(decompPrimaire(1500))
 print(phi(1500))
-print(phi(phi(1500)))
+print(phi(phi(1500)))"""

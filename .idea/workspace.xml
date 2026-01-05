@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a4d3fafd-bcf0-4ae8-ac15-b9c3f1bbe8c3" name="Changes" comment="19/12/2025">
-      <change beforePath="$PROJECT_DIR$/TP2 III.py" beforeDir="false" afterPath="$PROJECT_DIR$/TP2 III.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP2_IV.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP2 I.py" beforeDir="false" afterPath="$PROJECT_DIR$/TP2_I.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP2 II.py" beforeDir="false" afterPath="$PROJECT_DIR$/TP2_II.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP2 III.py" beforeDir="false" afterPath="$PROJECT_DIR$/TP2_III.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,18 +20,25 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="Python Unit Test" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Adam0864/Crypto.git",
-    "accountId": "f222ecc5-3eff-4877-a730-ee0f457ec254"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Adam0864&quot;
   }
-}]]></component>
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Adam0864/Crypto.git&quot;,
+    &quot;accountId&quot;: &quot;f222ecc5-3eff-4877-a730-ee0f457ec254&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -43,6 +54,7 @@
     "Python.TP2 I.executor": "Run",
     "Python.TP2 II.executor": "Run",
     "Python.TP2 III.executor": "Run",
+    "Python.TP2_IV.executor": "Run",
     "Python.Vernam.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -74,7 +86,8 @@
       <workItem from="1765537633683" duration="1873000" />
       <workItem from="1765783696811" duration="5514000" />
       <workItem from="1766138883691" duration="33000" />
-      <workItem from="1766139465065" duration="4122000" />
+      <workItem from="1766139465065" duration="4724000" />
+      <workItem from="1767597267769" duration="6245000" />
     </task>
     <task id="LOCAL-00001" summary="19/12/2025">
       <option name="closed" value="true" />
@@ -84,7 +97,23 @@
       <option name="project" value="LOCAL" />
       <updated>1766143856278</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="19/12/2025">
+      <option name="closed" value="true" />
+      <created>1766144070576</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1766144070576</updated>
+    </task>
+    <task id="LOCAL-00003" summary="19/12/2025">
+      <option name="closed" value="true" />
+      <created>1766144662639</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1766144662639</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -95,9 +124,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="19/12/2025" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Crypto$TP2_II.coverage" NAME="TP2 II Coverage Results" MODIFIED="1766143080899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Crypto$TP2_II.coverage" NAME="TP2 II Coverage Results" MODIFIED="1767597835846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Crypto$Vernam.coverage" NAME="Vernam Coverage Results" MODIFIED="1765784013810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Crypto$TP2_I.coverage" NAME="TP2 I Coverage Results" MODIFIED="1766140041959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Crypto$TP2_III.coverage" NAME="TP2 III Coverage Results" MODIFIED="1766144057647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Crypto$TP2_III.coverage" NAME="TP2 III Coverage Results" MODIFIED="1767597888073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Crypto$TP2_IV.coverage" NAME="TP2_IV Coverage Results" MODIFIED="1767603690459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
